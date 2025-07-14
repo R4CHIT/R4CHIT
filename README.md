@@ -19,7 +19,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,python,django,mongodb,nodejs,express,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,python,django,mongodb,nodejs,express,git,github,vscode" />
 </p>
 
 ---
@@ -27,8 +27,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachit-username&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit-username&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=R4CHIT&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4CHIT&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -43,18 +43,17 @@
 
 ### 🛠️ Currently Working On
 - A **collaborative whiteboard app** using `WebSockets`
-- A **full-stack blog platform** with post editing, likes, and rich user profiles
 
 ---
 
 ### 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-tiwari-8726a1342/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge)](https://rachitt-portfolio.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwarirachit50@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rachit-username&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=R4CHIT&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
