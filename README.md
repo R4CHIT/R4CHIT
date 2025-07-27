@@ -1,57 +1,62 @@
 <h1 align="center">Hey 👋, I'm Rachit</h1>
-<h3 align="center">🚀 Full-Stack Dev | Class 12 | Tech Explorer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=React+%7C+Django+%7C+MongoDB+%7C+Tailwind+%7C+WebSockets;Always+building%2C+breaking%2C+learning+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
+<h3 align="center">🚀 Full-Stack Dev | Class 12 | DRF Enthusiast | Tech Explorer</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 🚧 Currently diving into: **Django Channels + WebSockets**
-- 🛠️ Projects built:  
-  [`Portfolio`](https://rachitt-portfolio.vercel.app) | Social App | E-commerce | Message App
-- 💬 Ask me about: `React`, `Django`, `MongoDB`, `REST`, `Sockets`
-- 🎨 Fun fact: I make boring UIs look *drippy* ✨
+- 🧑‍💻 Backend Vibes: **Django + DRF (Django REST Framework)**  
+- 📡 Currently learning: **WebSockets + Django Channels**
+- 🔨 Built Stuff:  
+  [`Portfolio`](https://rachitt-portfolio.vercel.app) | Dev-Connect | E-commerce | Message App
+- 💬 Ask me about: `DRF`, `React`, `MongoDB`, `REST APIs`, `WebSockets`
+- 🎨 Fun Fact: I make backends that actually feel frontend-ready ⚡
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,python,django,mongodb,nodejs,express,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=api" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R4CHIT&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4CHIT&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=R4CHIT&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4CHIT&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R4CHIT&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌟 Highlight Projects
+## 🚀 Featured Projects
 
-| 🚀 Project | ⚙️ Tech Stack | 🔗 Link |
-|-----------|---------------|--------|
-| **Message App** | Django, WebSockets | _Real-time chat app_ |
-| **E-Commerce Site** | Django, React | _Full-fledged store system_ |
-| **Portfolio Site** | React, Tailwind | [Visit ↗](https://rachitt-portfolio.vercel.app) |
-
----
-
-## 🔨 Currently Building
-
-> A **real-time whiteboard app** with WebSockets  
-> Featuring live drawing, multi-user support, and dope UI
+| 🧩 Project       | 💡 Description                              | 🛠️ Stack                     |
+|------------------|---------------------------------------------|-------------------------------|
+| **Dev-Connect**  | A mini social media app with profiles, likes & posts | `React`, `DRF`, `JWT`   |
+| **Message App**  | Real-time chat using Channels & WebSocket   | `Django`, `Channels`, `DRF`  |
+| **E-Commerce**   | Cart, checkout, products, and full backend  | `MERN` (MongoDB, Express, React, Node) |
+| **Portfolio**    | My personal dev site                        | `React`, `TailwindCSS`       |
 
 ---
 
-## 📬 Let's Connect
+## 🛠️ Currently Building
+
+> A **collaborative whiteboard** powered by WebSockets – real-time drawing, multi-user support, and some crazy canvas sync.
+
+---
+
+## 📬 Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rachit-tiwari-8726a1342/">
@@ -68,5 +73,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=R4CHIT&label=Profile%20Views&color=ff69b4&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=R4CHIT&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
